@@ -1,2 +1,2 @@
-# Website for FWF VisOnFire project
-This repository contains the [website for FWF VisOnFire project](http://visonfire.caleydo.org/). Switch to the `gh-pages` branch to edit the page.
+# Website for FFG TourGuide project
+This repository contains the [website for FFG TourGuide project](http://tourguide.caleydo.org/). Switch to the `gh-pages` branch to edit the page.
